@@ -2,8 +2,8 @@
 //  PodcastTableViewCell.swift
 //  Podcast
 //
-//  Created by Nicolas Desormiere on 25/4/18.
-//  Copyright © 2018 Nicolas Desormiere. All rights reserved.
+//  Created by Amit Shukla on 14/01/20.
+//  Copyright © 2020 smartData Enterprises (I) Ltd. All rights reserved.
 //
 
 import UIKit
